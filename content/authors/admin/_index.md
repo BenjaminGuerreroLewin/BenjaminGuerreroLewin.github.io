@@ -1,7 +1,11 @@
 ---
+title: ''
+
 # Full name (for SEO)
 first_name: Benjamin
 last_name: Guerrero
+
+- name_pronounciation: ''
 
 # Status emoji
 status:
